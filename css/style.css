@@ -20,6 +20,10 @@ li{
 
 /* HEADER START */
 
+.credit__title_mobile{
+	display: none;
+}
+
 .header {
     -webkit-box-shadow: 15px 4px 13px -5px rgba(0,0,0,0.43);
     -moz-box-shadow: 15px 4px 13px -5px rgba(0,0,0,0.43);
