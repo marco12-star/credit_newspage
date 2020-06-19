@@ -25,6 +25,9 @@
 	}
 }
 @media all and (max-width: 800px) {
+	.credit__title_mobile{
+		display:none;
+	}
 	.navbar{
 		display: none;
 	}
