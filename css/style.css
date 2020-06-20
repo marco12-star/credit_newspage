@@ -248,3 +248,7 @@ a:not([href]):not([tabindex]){
 .footer .footer__nav ul li{
 	margin: 0;
 }
+
+[type=button], [type=reset], [type=submit], button {
+    -webkit-appearance: none;
+}
